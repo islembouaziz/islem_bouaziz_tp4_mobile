@@ -54,5 +54,8 @@ Le projet est composé de deux activités principales :
 | ![Code WelcomeActivity 1](app/capture/welcomeactivityjava1.png) | ![Code WelcomeActivity 2](app/capture/welcomeactivityjava2.png) |
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 6d7ef97cb19af246bc6a0680dacfffc91fead326
