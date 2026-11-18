@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP3 - Intents Explicites</string>
+    <string name="label_nom">Nom :</string>
+    <string name="label_prenom">Prénom :</string>
+    <string name="label_email">Email :</string>
+    <string name="btn_send">ENVOYER</string>
+</resources>
