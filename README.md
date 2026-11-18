@@ -53,20 +53,4 @@ Le projet est composé de deux activités principales :
 | :---: | :---: |
 | ![Code WelcomeActivity 1](app/capture/welcomeactivityjava1.png) | ![Code WelcomeActivity 2](app/capture/welcomeactivityjava2.png) |
 
----
 
-## 🛠️ Configuration & Exécution
-
-### Prérequis
-- Android Studio Ladybug ou version supérieure
-- Android SDK (API 24 minimum, target SDK API 34+)
-- JDK 17 ou JDK 21
-
-### Installation
-1. Cloner le dépôt :
-   ```bash
-   git clone <URL_DU_DEPOT_GITHUB>
-   ```
-2. Ouvrir le projet dans **Android Studio**.
-3. Laisser Gradle synchroniser les dépendances.
-4. Lancer l'application sur un émulateur ou un appareil Android connecté.
