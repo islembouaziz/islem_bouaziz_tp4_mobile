@@ -1,22 +1,6 @@
-# TP3 : Intents Explicites — « Démarrer un composant de votre application »
 
-**Matière :** Développement Mobile  
-**Filière :** LSI3  
-**Année Universitaire :** 2026-2027  
-**Enseignante TP :** Fourati Héla  
-**Étudiant :** Islem Bouaziz  
 
----
-
-## 🎯 Objectifs
-
-Au terme de ce projet, l'application démontre :
-- La navigation et le passage d'une activité à une autre via un **Intent explicite**.
-- Le transfert de données saisies d'une activité vers une autre à l'aide des **extras** (`putExtra` et `getExtras`).
-
----
-
-## 📱 Structure et Fonctionnalités
+##  Structure et Fonctionnalités
 
 Le projet est composé de deux activités principales :
 
