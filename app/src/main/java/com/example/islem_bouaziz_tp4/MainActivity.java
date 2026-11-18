@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 myintent.putExtra("lastname", getprenom);
                 myintent.putExtra("mymail", getmail);
 
-                // Also support key with space as shown in some PDF snippets
+
                 myintent.putExtra("name ", getnom);
                 myintent.putExtra("lastname ", getprenom);
                 myintent.putExtra("mymail ", getmail);
